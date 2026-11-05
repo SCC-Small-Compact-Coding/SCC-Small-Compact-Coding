@@ -1,5 +1,5 @@
 # SCC-Small-Compact-Coding
-This is a new coding language that is easier that the others.\
+This is a new coding language that is easier that the others.
 
 # Syntax
 ``` SCC
