@@ -23,4 +23,6 @@ memcolect
 
 exit
 ```
-Copyright 2026 wawa2016-here
+       
+       
+       Copyright 2026 wawa2016-here
