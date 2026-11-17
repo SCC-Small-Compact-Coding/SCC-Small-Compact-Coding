@@ -64,9 +64,10 @@ class SCC():
                 self.MemAutoColect(state_arg)
             
             elif cmd_type == "serverp":
-                print(cmd_parts)
                 self.ServerP(cmd_parts[1])
-                
+
+            elif cmd_type == "serverd":
+                self.ServerD(cmd_parts[1])
         
         except KeyboardInterrupt:
             print("\nKeyboardInterrupt")
